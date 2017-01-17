@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>d:/Programowanie/.Net Projekt/Kulki/Kulki/Content/music.ogg</SourceFile>
+  <SourceTime>2016-09-10T17:31:33+02:00</SourceTime>
+  <DestFile>d:/Programowanie/.Net Projekt/Kulki/Kulki/Content/bin/Windows/music.xnb</DestFile>
+  <DestTime>2017-01-17T12:02:59.0627527+01:00</DestTime>
+  <Importer>OggImporter</Importer>
+  <ImporterTime>2016-03-30T08:36:08+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2016-03-30T08:36:08+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Medium</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>d:/Programowanie/.Net Projekt/Kulki/Kulki/Content/bin/Windows/music.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

@@ -1,0 +1,1 @@
+d:\Programowanie\.Net Projekt\Kulki\Kulki\bin\Windows\x86\Debug\Kulki.exe.config

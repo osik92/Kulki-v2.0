@@ -1,0 +1,106 @@
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\ApplicationInsights.config
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\roslyn\csc.exe
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\roslyn\System.Collections.Immutable.dll
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\roslyn\System.Reflection.Metadata.dll
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\roslyn\vbc.exe
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\roslyn\VBCSCompiler.exe
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\roslyn\VBCSCompiler.exe.config
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\demo.dll.config
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\demo.dll
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\demo.pdb
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\Antlr3.Runtime.dll
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\Microsoft.AI.Agent.Intercept.dll
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\Microsoft.AI.DependencyCollector.dll
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\Microsoft.AI.Web.dll
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\Microsoft.AI.WindowsServer.dll
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\Microsoft.ApplicationInsights.dll
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\Microsoft.Web.Infrastructure.dll
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\Newtonsoft.Json.dll
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\System.Web.Helpers.dll
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\System.Web.Mvc.dll
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\System.Web.Optimization.dll
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\System.Web.Razor.dll
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\System.Web.WebPages.Deployment.dll
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\System.Web.WebPages.dll
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\System.Web.WebPages.Razor.dll
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\WebGrease.dll
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\Microsoft.AI.DependencyCollector.xml
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\Microsoft.AI.Web.xml
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\Microsoft.AI.WindowsServer.xml
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\Microsoft.ApplicationInsights.xml
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\System.Web.Helpers.xml
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\System.Web.Mvc.xml
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\System.Web.Optimization.xml
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\System.Web.Razor.xml
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\System.Web.WebPages.xml
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\System.Web.WebPages.Deployment.xml
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\System.Web.WebPages.Razor.xml
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\Antlr3.Runtime.pdb
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\bin\Newtonsoft.Json.xml
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\obj\Debug\demo.dll
+F:\!!!!!!!!Programowanie\Visual Studio 2015\Projects\ASP+WCF\demo\obj\Debug\demo.pdb
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\ApplicationInsights.config
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\roslyn\csc.exe
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\roslyn\System.Collections.Immutable.dll
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\roslyn\System.Reflection.Metadata.dll
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\roslyn\vbc.exe
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\roslyn\VBCSCompiler.exe
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\roslyn\VBCSCompiler.exe.config
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\demo.dll.config
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\demo.dll
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\demo.pdb
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\Antlr3.Runtime.dll
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\Microsoft.AI.Agent.Intercept.dll
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\Microsoft.AI.DependencyCollector.dll
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\Microsoft.AI.PerfCounterCollector.dll
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\Microsoft.AI.Web.dll
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\Microsoft.AI.WindowsServer.dll
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\Microsoft.ApplicationInsights.dll
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\Microsoft.Web.Infrastructure.dll
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\Newtonsoft.Json.dll
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\System.Web.Helpers.dll
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\System.Web.Mvc.dll
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\System.Web.Optimization.dll
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\System.Web.Razor.dll
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\System.Web.WebPages.Deployment.dll
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\System.Web.WebPages.dll
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\System.Web.WebPages.Razor.dll
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\WebGrease.dll
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\Microsoft.AI.DependencyCollector.xml
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\Microsoft.AI.Web.xml
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\Microsoft.AI.WindowsServer.xml
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\Microsoft.ApplicationInsights.xml
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\System.Web.Helpers.xml
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\System.Web.Mvc.xml
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\System.Web.Optimization.xml
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\System.Web.Razor.xml
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\System.Web.WebPages.xml
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\System.Web.WebPages.Deployment.xml
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\System.Web.WebPages.Razor.xml
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\Antlr3.Runtime.pdb
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\bin\Newtonsoft.Json.xml
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\obj\Debug\demo.dll
+d:\Programowanie\.Net Projekt\ASP+WCF\demo\obj\Debug\demo.pdb

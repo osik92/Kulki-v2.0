@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>d:/Programowanie/.Net Projekt/Kulki/Kulki/Content/MenuItemsFont.spritefont</SourceFile>
+  <SourceTime>2016-08-13T20:45:13+02:00</SourceTime>
+  <DestFile>d:/Programowanie/.Net Projekt/Kulki/Kulki/Content/bin/Windows/MenuItemsFont.xnb</DestFile>
+  <DestTime>2017-01-17T12:02:54.9979001+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-30T08:36:08+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-30T08:36:08+02:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,35 @@
+﻿@using demo.ServiceReference1
+@{
+    ViewBag.Title = "Home Page";
+}
+<h2>Kulki v2 Global Score Table</h2>
+
+
+    @{
+        if (((string)ViewBag.Colors).IsEmpty())
+        {
+            for (int c = 5; c <= 11; ++c)
+            {
+                <H4>Color numbers : @c</H4>
+                <table style="width: 100%">
+                    <tr style="background-color: darkgrey">
+                        <th>UserName</th>
+                        <th>Scores</th>
+                        <th>Board Size</th>
+                        <th width="15%">Date</th>
+                    </tr>
+
+                    @foreach (var score in ((Score[])ViewBag.Scores).Where(x => x.ColorNumbers == c).OrderByDescending(x=>x.Scores))
+                    {
+                        <tr>
+                            <td>@score.Nick</td>
+                            <td>@score.Scores</td>
+                            <td>@string.Format("{0} x {0}", score.BoardSize)</td>
+                            <td>@score.Date</td>
+                        </tr>
+                    }
+                </table><br/><br/>
+
+            }
+        }
+    }

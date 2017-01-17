@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kulki", "Kulki\Kulki.csproj", "{45CCF97B-DE63-4EB6-8D51-7E5C57469A5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameEngine", "..\GameEngine\GameEngine\GameEngine.csproj", "{9F36C7B3-2372-4D0E-B2D7-10D9D33A663C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{3795E3E0-4E57-4C13-9D5E-48A1FD3F0E55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45CCF97B-DE63-4EB6-8D51-7E5C57469A5A}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{45CCF97B-DE63-4EB6-8D51-7E5C57469A5A}.Debug|x86.ActiveCfg = Debug|x86
+		{45CCF97B-DE63-4EB6-8D51-7E5C57469A5A}.Debug|x86.Build.0 = Debug|x86
+		{45CCF97B-DE63-4EB6-8D51-7E5C57469A5A}.Release|Any CPU.ActiveCfg = Release|x86
+		{45CCF97B-DE63-4EB6-8D51-7E5C57469A5A}.Release|x86.ActiveCfg = Release|x86
+		{45CCF97B-DE63-4EB6-8D51-7E5C57469A5A}.Release|x86.Build.0 = Release|x86
+		{9F36C7B3-2372-4D0E-B2D7-10D9D33A663C}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{9F36C7B3-2372-4D0E-B2D7-10D9D33A663C}.Debug|x86.ActiveCfg = Debug|x86
+		{9F36C7B3-2372-4D0E-B2D7-10D9D33A663C}.Debug|x86.Build.0 = Debug|x86
+		{9F36C7B3-2372-4D0E-B2D7-10D9D33A663C}.Release|Any CPU.ActiveCfg = Release|x86
+		{9F36C7B3-2372-4D0E-B2D7-10D9D33A663C}.Release|x86.ActiveCfg = Release|x86
+		{9F36C7B3-2372-4D0E-B2D7-10D9D33A663C}.Release|x86.Build.0 = Release|x86
+		{3795E3E0-4E57-4C13-9D5E-48A1FD3F0E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3795E3E0-4E57-4C13-9D5E-48A1FD3F0E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3795E3E0-4E57-4C13-9D5E-48A1FD3F0E55}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3795E3E0-4E57-4C13-9D5E-48A1FD3F0E55}.Debug|x86.Build.0 = Debug|Any CPU
+		{3795E3E0-4E57-4C13-9D5E-48A1FD3F0E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3795E3E0-4E57-4C13-9D5E-48A1FD3F0E55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3795E3E0-4E57-4C13-9D5E-48A1FD3F0E55}.Release|x86.ActiveCfg = Release|Any CPU
+		{3795E3E0-4E57-4C13-9D5E-48A1FD3F0E55}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
